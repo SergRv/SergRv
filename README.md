@@ -1,12 +1,13 @@
+<img src="https://github.com/SergRv/SergRv/blob/main/gif.gif?raw=true" alt="Аналитика данных" width="800"/>
+
 # Привет, меня зовут Сергей! 👋
 
-Добро пожаловать на мою страницу! Я аналитик данных / продуктовый аналитик с техническим образованием и производственным опытом.
+Добро пожалую на мою страницу! Я аналитик данных / продуктовый аналитик с техническим образованием и производственным опытом.
 
 Готов к сотрудничеству 🤝
 
-
-
 ---
+
 ## 🛠 Языки и инструменты
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,6 +26,7 @@
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ---
 
 ## 📊 Ключевые проекты
@@ -41,5 +43,3 @@
 - **Telegram:** [@sergvr7](https://t.me/sergvr7)
 - **Email:** [Ryleevserj@yandex.ru](mailto:Ryleevserj@yandex.ru)
 - **GitHub:** [SergRv](https://github.com/SergRv)
-
-
