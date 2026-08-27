@@ -1,4 +1,3 @@
-<img src="https://github.com/SergRv/SergRv/blob/main/gif.gif?raw=true" alt="Аналитика данных" width="800"/>
 
 # Привет, меня зовут Сергей! 👋
 
